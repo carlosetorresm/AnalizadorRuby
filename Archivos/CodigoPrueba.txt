@@ -1,0 +1,21 @@
+a=3
+if true
+    puts ("olis")
+else
+    puts ("esto es un else")
+end
+if a<2
+    c="asignando un string"
+end
+while (a<4) do
+    a=b
+    a--
+    a-=3
+end
+i=2
+    sin(i)
+    a=(3*4)+4
+    b=(4*3)+(2+1)
+    puts (b)
+    puts ("ciclo for")
+end

@@ -1,0 +1,31 @@
+Numero        Tipo        Palabra 
+401       O. Aritmetico      +
+403       O. Aritmetico      *
+501       O. Relacional      ++
+502       O. Relacional      +=
+505       O. Relacional      =
+507       O. Relacional      <
+604       O. Logico      (
+605       O. Logico      )
+701       Numero      3
+701       Numero      3.5
+701       Numero      56
+701       Numero      12
+701       Numero      2
+701       Numero      4
+701       Numero      1
+308       p.Reservada      do
+309       p.Reservada      else
+311       p.Reservada      end
+316       p.Reservada      if
+334       p.Reservada      while
+336       p.Reservada      puts
+998       Identificador      a
+998       Identificador      b
+998       Identificador      aabb
+998       Identificador      c
+998       Identificador      i
+1100       String      "olis"
+1100       String      "estoesunelse"
+1100       String      "asignandounstring"
+1100       String      "ciclofor"
