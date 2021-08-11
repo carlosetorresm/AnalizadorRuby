@@ -7,7 +7,7 @@ Dichas tablas de estados estan almacenadas en la carpeta archivos tanto en forma
 
 En caso de encontrar un error el programa devuelve en la esquina inferior derecha un cuadro donde indica la linea y el caracter del error.
 
-A su vez devuelve una cruz o una paloma en caso de que el paso del analisis se complete adecuadamente.{
+A su vez devuelve una cruz o una paloma en caso de que el paso del analisis se complete adecuadamente.
 
 El programa no requiere ninguna libreria externa, unicamente la carpeta de archivos contenida dentro del repositorio.
 
